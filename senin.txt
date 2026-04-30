@@ -3,3 +3,6 @@
 -sholat subuh
 -prepare berangkat kerja
 -berangkat kerja
+-sampai kantor
+--menyalakan komputer
+--sarapan
